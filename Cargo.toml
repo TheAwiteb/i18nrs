@@ -1,11 +1,11 @@
 [package]
 name = "inrs"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 license = "GPL-3.0-only"
 authors = ["Awiteb <https://github.com/TheAwiteb>"]
 readme = "README.md"
-description = "Simple CLI to (add, delete, update, create) i18n translation file 🔤 🦀"
+description = "[deprecated] Simple CLI to (add, delete, update, create) i18n translation file"
 repository = "https://github.com/TheAwiteb/inrs"
 rust-version = "1.70.0"
 keywords = ["translation", "i18n", "CLI"]

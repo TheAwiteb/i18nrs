@@ -1,5 +1,7 @@
 <div align="center">
 
+**Deprecation Notice: This project is no longer maintained.**
+
 # Inrs
 Simple CLI to (add, delete, update, create) i18n translation file
 
